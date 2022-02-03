@@ -9,7 +9,7 @@ hide:
 
 This is a `custom-card` that improves the original person card (`card_person`) by adding a pop-up window inspired by  the theme of [@matt8707](https://github.com/matt8707/hass-config)
 
-![Generic](/doc/img/popup.gif)
+![Generic](/docs/img/popup.gif)
 
 ## Credits
 
