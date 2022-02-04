@@ -48,8 +48,8 @@ This card needs the following to function correctly:
     ulm_card_imswel_person_gps_tracker: device_tracker.oneplus_6t
     ulm_card_imswel_person_findmy_script: script.find_my_oneplus_6t
     ulm_card_imswel_person_use_entity_picture: true
-    ulm_card_imswel_person_zone1: Work
-    ulm_card_imswel_person_zone2: School
+    ulm_card_imswel_person_zone1: zone.work
+    ulm_card_imswel_person_zone2: zone.school
 ```
 
 #### Variables
@@ -99,14 +99,14 @@ This card needs the following to function correctly:
 	</tr>
 	<tr>
 		<td>ulm_card_imswel_person_zone1</td>
-		<td>Work</td>
+		<td>zone.work</td>
 		<td>no</td>
 		<td></td>
 		<td>Set another zone (beside "home") to use for the card. You can set up two zones besides "home".</td>
 	</tr>
 	<tr>
 		<td>ulm_card_imswel_person_zone2</td>
-		<td>School</td>
+		<td>zone.school</td>
 		<td>no</td>
 		<td></td>
 		<td>Set another zone (beside "home") to use for the card. You can set up two zones besides "home".</td>
